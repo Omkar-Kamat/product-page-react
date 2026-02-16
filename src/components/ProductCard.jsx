@@ -94,7 +94,7 @@ const ProductCard = ({
         <div className={styles.priceRow}>
 
           <span className={styles.price}>
-            ₹{price}
+            ${price}
           </span>
 
           <button
